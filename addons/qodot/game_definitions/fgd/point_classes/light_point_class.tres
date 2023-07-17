@@ -15,7 +15,8 @@ description = "Invisible light source"
 qodot_internal = false
 base_classes = Array[Resource]([ExtResource("3")])
 class_properties = {
-"angle": 0.0
+"angle": 0.0,
+"mangle": Vector3(0, 0, 0)
 }
 class_property_descriptions = {
 "angle": "Rotation Angle"
